@@ -22,4 +22,6 @@ Technical Architecture:
 
 ![]()
 
-![]()![]()
+![]()![]()![Screenshot from 2023-06-30 18-12-04](https://github.com/bhavana-pn/AI-Based-Discourse-For-Banking-industry/assets/93568726/a02757e2-c921-48bd-8596-824ffe48ab36)
+
+
