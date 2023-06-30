@@ -19,7 +19,9 @@ Services Used:
 ![](https://lh6.googleusercontent.com/0B4k1RVldfZHHr6OVmOLOWpKWsIfOwjIXg8KGiT4EUVLluT2dTtmgq4Do_2w32RGfz0-kq89THNi8K85_shN66J0fPtPMI9BALne7zaNFrmhy99hdsfBe5lC0ZsGgRQnkaQZblys)
 
 * Technical Architecture:
-![Screenshot from 2023-06-30 18-17-28](https://github.com/bhavana-pn/AI-Based-Discourse-For-Banking-industry/assets/93568726/8ec94507-0164-4e92-8fe0-74e6a4dc20c9)
+![Screenshot from 2023-06-30 18-22-35](https://github.com/bhavana-pn/AI-Based-Discourse-For-Banking-industry/assets/93568726/c2c7c034-371c-4d38-996d-61433b0138fb)
+
+
 
 
 
